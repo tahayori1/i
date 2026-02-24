@@ -1,5 +1,6 @@
-vless://64455928-6b30-402b-bfd4-8802165c0809@parsa-li.com:8443?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#49142-az5jdmbc
-vless://64455928-6b30-402b-bfd4-8802165c0809@www.speedtest.net:2096?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WS-5.10.244.182
+vless://64455928-6b30-402b-bfd4-8802165c0809@api.chatgpt.com:8443?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WC-API-ChatGPT.com
+vless://64455928-6b30-402b-bfd4-8802165c0809@chatgpt.com:8443?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WC-ChatGPT.com
+vless://64455928-6b30-402b-bfd4-8802165c0809@www.speedtest.net:2096?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WS-SpeedTest
 vless://64455928-6b30-402b-bfd4-8802165c0809@5.10.244.182:2096?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WS-5.10.244.182
 vless://64455928-6b30-402b-bfd4-8802165c0809@5.10.245.107:2096?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WS-5.10.245.107
 vless://64455928-6b30-402b-bfd4-8802165c0809@5.10.246.22:2096?type=ws&host=certificate.iloggers.com&path=/login.php/user/panel&security=tls&fp=chrome&sni=certificate.iloggers.com&alpn=h2,http/1.1,h3#WS-5.10.246.22
